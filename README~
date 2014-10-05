@@ -30,9 +30,8 @@ To run this program with default values, use simple,
 
 $ ./myhttpd
 
-Above command will start a http server and listen on port 8080, with default run 
-directory as, from where you are starting the myhttpd server, i.e. may be your 
-current working directory.
+Above command will start a http server and listen on port 8080, with default run directory as,
+from where you are starting the myhttpd server, i.e. may be your current working directory.
 
 
 OPTIONS
